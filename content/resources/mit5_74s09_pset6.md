@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Spectroscopy Problems, Part 1
-type: OCWFile
 uid: d8928cf7-fd23-9c0a-5f6a-f9d94ca9b47c
 ---

@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: MIT5_74S09lec13_thumb
-type: OCWImage
 uid: eafef26c-fc06-cf8e-b831-98facfdf3b18
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: Resonant driving of 2LS
-type: OCWFile
 uid: c2de1385-db4d-d870-e120-101ddf2a167f
 ---

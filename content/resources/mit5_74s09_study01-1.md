@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: Two-level system
-type: OCWFile
 uid: 370153a2-8a49-6562-ed26-676874f8d55f
 ---

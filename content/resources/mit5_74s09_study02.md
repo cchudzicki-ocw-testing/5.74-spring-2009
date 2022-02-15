@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Time development of a coupled two level system
-type: OCWFile
 uid: daf6b841-ac13-198f-4680-4d1179c528d6
 ---
