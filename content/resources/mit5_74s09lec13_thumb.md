@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: MIT5_74S09lec13_thumb
 uid: eafef26c-fc06-cf8e-b831-98facfdf3b18
