@@ -29,7 +29,7 @@ ASSIGNMENTS
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 0 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset0))
+Problem set 0 ({{< resource_link a84bc298-f23f-2c31-06ce-0fdfac156cdc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +38,7 @@ Problem set 0 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset0))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset01))
+Problem set 1 ({{< resource_link 5a2d901b-a7a5-1706-235d-75db5e0ee065 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Problem set 1 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset01))
 {{< tdopen >}}
 
 
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset02))
+Problem set 2 ({{< resource_link 207b47fd-bf37-d6ef-19ee-17f37584c9be "PDF" >}})
 
 Trajectory for problem 3 ([DAT](/courses/chemistry/5-74-introductory-quantum-mechanics-ii-spring-2009/assignments/cf2.dat))
 
@@ -62,7 +62,7 @@ Trajectory for problem 3 ([DAT](/courses/chemistry/5-74-introductory-quantum-mec
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset03))
+Problem set 3 ({{< resource_link 83789222-8347-43f5-b59f-476da566ac1b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset03))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset04))
+Problem set 4 ({{< resource_link 056900eb-c4e5-2fd3-67fd-6db637ad1b1c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset04))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 5 (take-home exam) ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset05))
+Problem set 5 (take-home exam) ({{< resource_link d46565e2-d748-366e-1bb7-6fe03cb5bd9e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ Problem set 5 (take-home exam) ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset0
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear spectroscopy problems ([PDF]({{< baseurl >}}/resources/mit5_74s09_pset6))
+Nonlinear spectroscopy problems ({{< resource_link d8928cf7-fd23-9c0a-5f6a-f9d94ca9b47c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
