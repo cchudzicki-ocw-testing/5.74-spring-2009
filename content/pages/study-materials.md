@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: cd4e7136-47d4-809e-402c-c08e932758aa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Two-level system ({{% resource_link ae0d3163-2724-0dd3-42da-a99e2b551db3 "PDF" %}}) ({{% resource_link 370153a2-8a49-6562-ed26-676874f8d55f "XMCD" %}})

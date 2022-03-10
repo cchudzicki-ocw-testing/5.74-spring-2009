@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Resonant driving of two-level system
 uid: ae0d3163-2724-0dd3-42da-a99e2b551db3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

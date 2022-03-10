@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Displaced harmonic oscillator lineshape
 uid: c28373b4-dc4e-c710-011f-8f786fe0dc1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

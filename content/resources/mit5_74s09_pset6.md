@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Spectroscopy Problems, Part 1
 uid: d8928cf7-fd23-9c0a-5f6a-f9d94ca9b47c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

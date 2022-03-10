@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Resonant driving of 2LS
 uid: c2de1385-db4d-d870-e120-101ddf2a167f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

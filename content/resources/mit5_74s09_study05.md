@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Gaussian-stochastic model for the absorption lineshape
 uid: 419284df-39b1-e61e-000b-3f60111ffa3e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 8ffc8ced-be0a-98b7-2788-84ee7562ed7e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In the following table, problem sets are listed by the lecture in which they are due. Problem set 0 is not graded so there is no due date.

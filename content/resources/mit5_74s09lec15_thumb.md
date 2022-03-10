@@ -12,4 +12,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: MIT5_74S09lec15_thumb
 uid: 1fcbec9c-c092-c706-5abd-931658c1c22a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

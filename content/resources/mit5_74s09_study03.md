@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Absorption Lineshape for the Displaced Harmonic Oscillator Model
 uid: ad9c3923-1dda-ad81-ca3c-90cb3016a2a6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

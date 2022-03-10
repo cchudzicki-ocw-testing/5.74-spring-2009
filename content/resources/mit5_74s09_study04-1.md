@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: 'Displaced harmonic oscillator lineshape: temperature'
 uid: 193ee76b-9c8f-9c2b-c69c-c048860ebcfc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

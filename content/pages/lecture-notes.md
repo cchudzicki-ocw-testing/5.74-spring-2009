@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 5c9bcb80-e4c2-86e8-e4ee-32b8ecaca92c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Students are encouraged to print and read the course lecture notes in advance of lectures. Prof. Tokmakoff maintains the [Time-Dependent Quantum Mechanics and Spectroscopy Web site](http://tdqms.uchicago.edu/) with the most recent and complete pdf version of the notes.

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Two-level system
 uid: 370153a2-8a49-6562-ed26-676874f8d55f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
