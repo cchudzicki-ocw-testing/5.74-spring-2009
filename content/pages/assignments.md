@@ -55,7 +55,7 @@ Problem set 1 ({{% resource_link 5a2d901b-a7a5-1706-235d-75db5e0ee065 "PDF" %}})
 
 Problem set 2 ({{% resource_link 207b47fd-bf37-d6ef-19ee-17f37584c9be "PDF" %}})
 
-Trajectory for problem 3 ([DAT](/courses/chemistry/5-74-introductory-quantum-mechanics-ii-spring-2009/assignments/cf2.dat))
+Trajectory for problem 3 ({{% resource_link eb640d9a-3012-3e00-2700-0447d2f9fdab "DAT" %}})
 
 
 {{< tdclose >}}
