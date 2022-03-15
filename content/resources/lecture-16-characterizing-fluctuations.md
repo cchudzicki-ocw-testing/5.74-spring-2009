@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF](resources/mit5_74s09_lec16))
+related_resources_text: Lecture Notes ([PDF](/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/resources/mit5_74s09_lec16))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Characterizing Fluctuations'
