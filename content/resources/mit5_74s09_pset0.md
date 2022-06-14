@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on on the basics of solving numerical problems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/a84bc298f23f2c3106ce0fdfac156cdc_MIT5_74s09_pset0.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/a84bc298f23f2c3106ce0fdfac156cdc_MIT5_74s09_pset0.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set on on the basics of solving numerical problems.
