@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides problem on introductory quantum mechanics, including
+  numerical problems involving the manipulation of matrices and vectors.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
