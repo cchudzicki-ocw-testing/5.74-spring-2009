@@ -7,6 +7,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2009/056900ebc4e52f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
